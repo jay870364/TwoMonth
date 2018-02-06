@@ -1,0 +1,11 @@
+D:\Projects\P16031C0129_ECOM2016\trunk\src\Helper.WindowsAD\bin\Debug\Helper.WindowsAD.dll
+D:\Projects\P16031C0129_ECOM2016\trunk\src\Helper.WindowsAD\bin\Debug\Helper.WindowsAD.pdb
+D:\Projects\P16031C0129_ECOM2016\trunk\src\Helper.WindowsAD\obj\Debug\Helper.WindowsAD.dll
+D:\Projects\P16031C0129_ECOM2016\trunk\src\Helper.WindowsAD\obj\Debug\Helper.WindowsAD.pdb
+D:\Projects\P16031C0129_ECOM2016\trunk\src\Helper.WindowsAD\obj\Debug\Helper.WindowsAD.csproj.CoreCompileInputs.cache
+D:\BossInformation\2Month\Solution\Helper.WindowsAD\bin\Debug\Helper.WindowsAD.dll
+D:\BossInformation\2Month\Solution\Helper.WindowsAD\bin\Debug\Helper.WindowsAD.pdb
+D:\BossInformation\2Month\Solution\Helper.WindowsAD\obj\Debug\Helper.WindowsAD.csprojResolveAssemblyReference.cache
+D:\BossInformation\2Month\Solution\Helper.WindowsAD\obj\Debug\Helper.WindowsAD.csproj.CoreCompileInputs.cache
+D:\BossInformation\2Month\Solution\Helper.WindowsAD\obj\Debug\Helper.WindowsAD.dll
+D:\BossInformation\2Month\Solution\Helper.WindowsAD\obj\Debug\Helper.WindowsAD.pdb

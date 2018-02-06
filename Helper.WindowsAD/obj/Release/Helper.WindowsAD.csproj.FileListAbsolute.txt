@@ -1,0 +1,5 @@
+D:\Projects\P16031C0129_ECOM2016\trunk\src\Helper.WindowsAD\bin\Release\Helper.WindowsAD.dll
+D:\Projects\P16031C0129_ECOM2016\trunk\src\Helper.WindowsAD\bin\Release\Helper.WindowsAD.pdb
+D:\Projects\P16031C0129_ECOM2016\trunk\src\Helper.WindowsAD\obj\Release\Helper.WindowsAD.dll
+D:\Projects\P16031C0129_ECOM2016\trunk\src\Helper.WindowsAD\obj\Release\Helper.WindowsAD.pdb
+D:\Projects\P16031C0129_ECOM2016\trunk\src\Helper.WindowsAD\obj\Release\Helper.WindowsAD.csproj.CoreCompileInputs.cache
